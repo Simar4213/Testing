@@ -9,6 +9,8 @@
                                 <div class="inner_content">
                                     <p>&nbsp;</p>
                                 </div>
+
+<div>
                                 <a href="#" class="text-uppercase thumbnail_btn text-center disabled">No gateway added in this lcoation</a>
                             </div>
                          </div>
