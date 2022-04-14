@@ -1,0 +1,15 @@
+ @else
+                        <div class="col-lg-4 col-md-12 col-sm-6 col-xs-12">
+                         <div class="thumbnail hub_thumbnail">
+                            <a href="#" class="disabled"><img src="{{ asset('asset/img/add_hub.png')}}" class="img-responsive hub_img disabled"></a>
+                            <div class="caption  nvrlist">
+                                 <div class="caption_icon_sec">
+                                    <i class="fa fa-ban" aria-hidden="true"></i>
+                                </div>
+                                <div class="inner_content">
+                                    <p>&nbsp;</p>
+                                </div>
+                                <a href="#" class="text-uppercase thumbnail_btn text-center disabled">No gateway added in this lcoation</a>
+                            </div>
+                         </div>
+                        </div>
